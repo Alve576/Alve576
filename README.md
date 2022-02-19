@@ -1,4 +1,3 @@
-### Fernando Karchiloff profile (a.k.a. Ferka, ferkarchiloff)
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
