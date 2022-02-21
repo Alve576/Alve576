@@ -12,11 +12,10 @@
 [![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl)
 
 
-## 🎓 I'm a BTech IT Student at Manipal University Jaipur
-- 🔭 I’m currently practicing questions on LeetCode
-- 🌱 I’m currently learning Data mining & Flutter
+## 🎓 I'm a Fullstack Webdeveloper with the MERN.
+- 🌱 I’m currently learning Redux and Typescript.
 - 👯 I’m actively looking for a 6 month long internship, starting from January 2022
-- 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
+- 💬 Ask me about Javascript / Node.js / Express.js / MongoDB Atlas / React.js
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shadmanalve/) or Discord (Mayank#9665)
 
 
