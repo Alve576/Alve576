@@ -1,5 +1,5 @@
 
-## Hello, folks! <img src="https://github.com/Mayank0255/Mayank0255/blob/main/wave.gif" align="top" width="30px">
+## Hello, <img src="https://github.com/Mayank0255/Mayank0255/blob/main/wave.gif" align="top" width="30px">
 <img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
 
 
@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Data mining & Flutter
 - 👯 I’m actively looking for a 6 month long internship, starting from January 2022
 - 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shadmanalve/) or Discord (Mayank#9665)
 
 
 ### Things I code with: 
