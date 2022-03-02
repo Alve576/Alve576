@@ -1,9 +1,9 @@
 
-### Hi there , I am Arpit Jain Nice to see you !!👋
+### Hi there , I am Shad Islam Alve. 👋
 
-- 🔭 I’m currently working as contributor in a open Soucre Contribution Program GWoC'21
-- 🔭 I was the Project Admin in a open Source Contribution Program DevIncept
-- 🔭 I was the mentor in a open Soucre Contribution Program LGSMOC'21
+- 🔭 I’m currently working as MERN Stack Developer
+- 🔭 I’m a junior level developer still.
+- 🔭 I was a student in Programming Hero of Batch 4.
 - 🔭 I’m the top Contributor in Gssoc'21
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Web Devlopment integrated with ML
