@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Redux and Typescript.
 - 🤔 I’m looking for internship.
 - 💬 Ask me about React,Node,Mern,MongoDB.
-- 📫 How to reach me: [linkedin:@ArpitJain](https://www.linkedin.com/in/shadmanalve/) , [Facebook:@Arpit](https://www.facebook.com/profile.php?id=100011460231562)
+- 📫 How to reach me: [linkedin:@ArpitJain](https://www.linkedin.com/in/shadmanalve/) , [Facebook:@Arpit](https://web.facebook.com/shadman.alvee.14/)
 
 
 <h3 align="center">A passionate Full-stack Web developer from Bangladesh</h3>
