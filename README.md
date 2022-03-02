@@ -4,18 +4,12 @@
 - 🔭 I’m currently working as MERN Stack Developer
 - 🔭 I’m a junior level developer still.
 - 🔭 I was a student in Programming Hero of Batch 4.
-- 🔭 I’m the top Contributor in Gssoc'21
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Web Devlopment integrated with ML
-- 🤔 I’m looking for help with Data Science
-- 💬 Ask me about Python,Flask,Django,Web Development
-- 📫 How to reach me: [linkedin:@ArpitJain](https://www.linkedin.com/in/arpit-jain-0b054a170) , [Facebook:@Arpit](https://www.facebook.com/profile.php?id=100011460231562) , [Instagram@Arpit](https://www.instagram.com/111arpit1/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Marvel's Fan
+- 🌱 I’m currently learning Redux and Typescript.
+- 🤔 I’m looking for internship.
+- 💬 Ask me about React,Node,Mern,MongoDB.
+- 📫 How to reach me: [linkedin:@ArpitJain](https://www.linkedin.com/in/shadmanalve/) , [Facebook:@Arpit](https://www.facebook.com/profile.php?id=100011460231562)
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpit456jain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=arpit456jain&theme=nightowl&hide_border=true&fire=DD2727" alt="arpit456jain" />
   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit456jain&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="arpit456jain" />
 </p>
 
