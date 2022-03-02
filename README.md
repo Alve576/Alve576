@@ -9,11 +9,8 @@
 - 💬 Ask me about React,Node,Mern,MongoDB.
 - 📫 How to reach me: [linkedin:@ArpitJain](https://www.linkedin.com/in/shadmanalve/) , [Facebook:@Arpit](https://www.facebook.com/profile.php?id=100011460231562)
 
-<p>
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit456jain&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="arpit456jain" />
-</p>
 
-<h3 align="center">A passionate Full-stack Web developer from India</h3>
+<h3 align="center">A passionate Full-stack Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit456jain&label=Profile%20views&color=0e75b6&style=flat" alt="arpit456jain" /> </p>
 
@@ -23,8 +20,8 @@
 
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
--Check out here  [http://arpit4567jain.pythonanywhere.com/](http://arpit4567jain.pythonanywhere.com/)
-<img src="https://raw.githubusercontent.com/arpit4567jain/arpit456jain/master/portfolio.png">
+-Check out here  [http://arpit4567jain.pythonanywhere.com/](https://react-firebase-authe-7123d.web.app)
+<img src="https://i.ibb.co/cX8Xdjt/oirt.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
